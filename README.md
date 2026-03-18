@@ -34,7 +34,7 @@ This project analyzes a movie rental business using the Sakila database. The goa
 ## 📸 Sample Outputs
 
 ### Top Customers by Spending
-![Top Customers](outputs/top_10_customers.png)
+![Top Customers](outputs/top10customers.png)
 ### Revenue Analysis
 ![Revenue](outputs/Monthly_revenue_trend.png)
 
