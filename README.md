@@ -27,9 +27,6 @@ This project analyzes a movie rental business using the Sakila database. The obj
 
 ## 📸 Sample Outputs
 
-### Top Customers
-![Top Customers](outputs/top_10_customers.png)
-
 ### Revenue Trend
 ![Revenue](outputs/Monthly_revenue_trend.png)
 
