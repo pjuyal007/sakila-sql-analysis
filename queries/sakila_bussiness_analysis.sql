@@ -152,7 +152,7 @@ GROUP BY s.staff_id
 ORDER BY total_rentals DESC;
 
 -- =====================================================
--- 6. FINAL DATASETS FOR POWER BI (EXPORT THESE)
+--  FINAL DATASETS FOR POWER BI (EXPORT THESE)
 -- =====================================================
 
 -- 1. Monthly Revenue (for Line Chart)
