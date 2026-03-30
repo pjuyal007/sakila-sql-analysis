@@ -70,5 +70,18 @@ An interactive dashboard was built to visualize key business insights:
 
 ---
 
-## 📁 Pr
+📁 Project Structure
+dataset/      → Database schema and data  
+queries/      → SQL analysis queries  
+outputs/      → Query results & dashboard screenshots  
+dashboard/    → Power BI (.pbix file)  
+🚀 Key Skills Demonstrated
+SQL Joins, Aggregations, Window Functions
+Data Extraction & Transformation
+Business Data Analysis
+Data Visualization using Power BI
+End-to-End Data Analytics Workflow
+👨‍💻 Author
+
+Pankaj Juyal
 
