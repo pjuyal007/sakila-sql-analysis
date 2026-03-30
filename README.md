@@ -66,7 +66,7 @@ An interactive dashboard was built to visualize key business insights:
 
 ### Monthly Revenue Trend
 
-![Revenue](outputs/monthly_revenue.png)
+![Revenue](outputs/Monthly_revenue_trend.png)
 
 ---
 
